@@ -42,3 +42,7 @@ Small reconstruction errors are visible, especially in fine details.
 Train on diverse datasets like Fashion-MNIST or CIFAR-10.
 Develop denoising capabilities to handle noisy images.
 Use the latent representations for downstream tasks like clustering.
+
+# Acknowledgments
+The dataset was sourced from Kaggle.
+Thanks to my mentors and colleagues for their guidance.
