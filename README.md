@@ -1,5 +1,4 @@
-# Project-7
-An autoencoder model trained on the MNIST dataset to reconstruct handwritten digits, showcasing unsupervised deep learning and dimensionality reduction techniques.
+# An autoencoder model trained on the MNIST dataset to reconstruct handwritten digits, showcasing unsupervised deep learning and dimensionality reduction techniques.
 # Project Overview
 This project utilizes an autoencoder to reconstruct handwritten digits from the MNIST dataset. The goal is to compress and reconstruct image data efficiently, leveraging unsupervised learning principles. The autoencoder successfully demonstrates its ability to learn a meaningful compressed representation of the input data.
 
