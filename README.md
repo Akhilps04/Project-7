@@ -45,3 +45,6 @@ Use the latent representations for downstream tasks like clustering.
 # Acknowledgments
 The dataset was sourced from Kaggle.
 Thanks to my mentors and colleagues for their guidance.
+
+## 📄 License
+This project is for academic and demonstration purposes only. Please credit the authors if reused or modified.
